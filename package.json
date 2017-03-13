@@ -10,5 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "less": "^2.7.2"
+  },
+  "dependencies": {
+    "normalize.css": "^5.0.0"
   }
 }
